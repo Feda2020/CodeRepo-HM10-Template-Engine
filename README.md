@@ -22,14 +22,19 @@
 
   As a manager, I want to generate a webpage that displus my team's basic information so I will have a quick access to emails and github profiles.
 
-## Pictures
+## Application walk through
 
- ![Functional Application](./asset/FunctionalApplication)
+ ![Functional Application](asset/FunctionalApplication.gif)
+
+ ## Picture
+
+ ![Website](asset/HTMLOutput.PNG)
 
 ## Test
 
   run npm test
-  ![Passed Tests](./asset/PassedTest)
+  
+  ![Passed Tests](asset/PassedTest.gif)
 
 ## Questions
 In case of any additional questions please visit my GitHub link: [Feda2020](https://github.com/Feda2020) 
