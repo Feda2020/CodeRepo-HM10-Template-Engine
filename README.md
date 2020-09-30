@@ -9,8 +9,8 @@
 * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [license](#License)
-* [Contributing](#Contribution)
+* [Application walk through](#Application-walk-through)
+* [HTMLoutput](#Picture)
 * [Test](#Test)
 * [Questions](#Questions)
 
@@ -22,7 +22,7 @@
 
   As a manager, I want to generate a webpage that displus my team's basic information so I will have a quick access to emails and github profiles.
 
-## Application walk through
+## Application-walk-through
 
  ![Functional Application](asset/FunctionalApplication.gif)
 
